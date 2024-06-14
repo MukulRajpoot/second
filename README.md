@@ -1,3 +1,4 @@
 # second
-my detailed here 
-myself  mukul
+Display current time and also coundown
+
+
